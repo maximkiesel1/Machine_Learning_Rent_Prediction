@@ -9,6 +9,4 @@ Frist of all the data is needed. Therefore a web scraping algorithm will be prog
 
 After that the data need to be processed. With the processing data a machine learning algorithm will be feeded. 
 
-After that everything will be deployed for everybody on a website. The presented alogrithm will implemented in 
-
-in a cloud system.
+Finally everything will be deployed for everybody on a website. The presented alogrithm will implemented in a cloud system.
