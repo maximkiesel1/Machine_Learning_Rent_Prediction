@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/119667336/215277641-f1677f04-63d8-490b-98cb-a192b029bb72.png)
+
 # Munich Renting Market Analysis
 This repository contains 3 files for analyzing the renting market in Munich, Germany. The goal of this project is to gain insight into the renting market in order to subsequently train a machine learning model that can predict rent prices based on certain features.
 
