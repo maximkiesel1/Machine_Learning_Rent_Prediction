@@ -9,8 +9,8 @@ The first file is a web scraper that gathers renting data from a real estate web
 ## File 2: Processed Data
 The second file contains the processed data from the first file. This data is ready for analysis and visualization.
 
-## File 3: Exploratory Data Analysis (EDA)
-The third file conducts an exploratory data analysis (EDA) on the renting data, revealing key insights into the Munich renting market. The EDA found that:
+## File 3: Exploratory Data Analysis (EDA) and Data Wrangling
+The third file conducts an exploratory data analysis (EDA) and Data Wrangling on the renting data, revealing key insights into the Munich renting market. The EDA found that:
 
 - The majority of renting listings tend to be in affluent neighborhoods in Munich
 - The more expensive the neighborhood, the more variation there is in renting prices
